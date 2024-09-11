@@ -1,11 +1,13 @@
 <?php
 
 /**
- * Plugin Name: Accessly
- * Description: A membership plugin with subscription management and payment gateway integration.
- * Version: 1.0.0
- * Author: Tanjim Alam
- * Text Domain: accessly
+ * Plugin Name: {PLUGIN_NAME}
+ * Plugin URL: {PLUGIN_URL}
+ * Description: {DESCRIPTION}
+ * Version: {VERSION}
+ * Author: {AUTHOR}
+ * Author URL: {AUTHOR_URL}
+ * Text Domain: {TEXT_DOMAIN}
  */
 
 namespace {NAMESPACE};
