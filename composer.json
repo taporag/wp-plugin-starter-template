@@ -1,0 +1,19 @@
+{
+   "name": "tap/accessly",
+   "description": "A membership plugin with subscription management and payment gateway integration.",
+   "type": "wordpress-plugin",
+   "autoload": {
+       "psr-4": {
+           "{NAMESPACE}\\": "./",
+           "{NAMESPACE}\\Functions\\": "functions/"
+       },
+       "files": [
+        "includes/functions.php"
+       ]
+       
+   },
+   "require-dev": {
+      "squizlabs/php_codesniffer": "^3.10",
+      "friendsofphp/php-cs-fixer": "^3.64"
+   }
+}
