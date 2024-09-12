@@ -2,7 +2,7 @@
 
 namespace {NAMESPACE}\Includes;
 
-use {NAMESPACE}\Utils\Notice;
+use {NAMESPACE}\Includes\Notice;
 
 /**
  * Class DependencyChecker
